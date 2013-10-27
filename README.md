@@ -4,7 +4,9 @@ bash_shell
 multithreaded shell implementation in c
 
 ////-------------------> To run <-----------------------\\\\\
+
 make
+
 ./fsh
 
 ////-----------------> Functionality <-------------------\\\\\
