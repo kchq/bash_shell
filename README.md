@@ -5,10 +5,8 @@ multithreaded shell implementation in c
 
 ////-------------------> To run <-----------------------\\\\\
 
-make
-
-./fsh
-
+->>make
+->>./fsh
 ////-----------------> Functionality <-------------------\\\\\
 
 Robust functionality for basic commands. More likely than not, the command you want works :D
